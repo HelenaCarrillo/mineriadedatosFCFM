@@ -14,6 +14,7 @@ PRESENTACIÓN TÉCNICAS DE MINERÍA
 
 
 EJERCICIO 1
+
 [Ejercicio 1 PDF](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Ejercicios1_1_002.pdf)
 
 [Ejercicio 1 ipynb](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Ejercicios1_1_002.ipynb)
