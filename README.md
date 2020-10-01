@@ -22,3 +22,5 @@ EJERCICIO 1
 [Ejercicio 1.1 cvc](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Ejercicio_1.1.csv)
 
 [Ejercicio 1.2 cvc](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Ejercicio_1.2.csv)
+
+[Resúmenes técnicas de minería de datos]
