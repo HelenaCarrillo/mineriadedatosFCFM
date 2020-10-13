@@ -12,6 +12,7 @@ PRESENTACIÓN TÉCNICAS DE MINERÍA
 
 [Ejercicio Clustering datos](https://github.com/patyarvizu/Mineria-de-datos/blob/master/cars.csv)
 
+[---------------------------------------------------------------------------------------]
 
 EJERCICIO 1
 
@@ -23,6 +24,10 @@ EJERCICIO 1
 
 [Ejercicio 1.2 cvc](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Ejercicio_1.2.csv)
 
+[---------------------------------------------------------------------------------------]
+
 [Resúmenes técnicas de minería de datos](https://github.com/HelenaCarrillo/mineriadedatosFCFM/blob/master/Resumenes_1725370.pdf)
 
 [Mapa Mental 2](https://github.com/HelenaCarrillo/mineriadedatosFCFM/blob/master/MapaMental_2_1725370.pdf)
+
+[Ejercicio bases de datos](https://github.com/HelenaCarrillo/mineriadedatosFCFM/blob/master/Ejercicios%20bases%20de%20datos.pdf)
