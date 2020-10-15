@@ -1,5 +1,5 @@
 # mineriadedatosFCFM
-Archivos de la clase
+###Archivos de la clase
 
 [Mapa mental 1](https://github.com/HelenaCarrillo/mineriadedatosFCFM/blob/master/MapaMental_1_1725370.pdf)
 
@@ -31,4 +31,4 @@ EJERCICIO 1
 
 [Mapa Mental 2](https://github.com/HelenaCarrillo/mineriadedatosFCFM/blob/master/MapaMental_2_1725370.pdf)
 
-[Ejercicio bases de datos](https://github.com/HelenaCarrillo/mineriadedatosFCFM/blob/master/Ejercicios%20bases%20de%20datos.pdf)
+[Ejercicio bases de datos](https://github.com/HelenaCarrillo/mineriadedatosFCFM/blob/master/An%C3%A1lisisBD_1725370.pdf)
