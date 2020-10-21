@@ -33,4 +33,4 @@ EJERCICIO 1
 
 [Ejercicio bases de datos](https://github.com/HelenaCarrillo/mineriadedatosFCFM/blob/master/An%C3%A1lisisBD_1725370.pdf)
 
-[Ejercicios básicos en Python]()
+[Ejercicios básicos en Python](https://github.com/HelenaCarrillo/mineriadedatosFCFM/blob/master/PythonB%C3%A1sico_1725370.ipynb)
