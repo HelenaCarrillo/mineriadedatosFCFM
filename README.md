@@ -32,3 +32,5 @@ EJERCICIO 1
 [Mapa Mental 2](https://github.com/HelenaCarrillo/mineriadedatosFCFM/blob/master/MapaMental_2_1725370.pdf)
 
 [Ejercicio bases de datos](https://github.com/HelenaCarrillo/mineriadedatosFCFM/blob/master/An%C3%A1lisisBD_1725370.pdf)
+
+[Ejercicios básicos en Python]()
