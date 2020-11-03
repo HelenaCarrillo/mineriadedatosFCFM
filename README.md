@@ -36,3 +36,5 @@ EJERCICIO 1
 [Ejercicios básicos en Python](https://github.com/HelenaCarrillo/mineriadedatosFCFM/blob/master/PythonB%C3%A1sico_1725370.ipynb)
 
 [Avance 1 PIA](https://github.com/HelenaCarrillo/mineriadedatosFCFM/blob/master/Avance1-PIA_01_02.pdf)
+
+[Ejercico Preparación de la base](https://github.com/HelenaCarrillo/mineriadedatosFCFM/blob/master/Base_limpia.ipynb)
