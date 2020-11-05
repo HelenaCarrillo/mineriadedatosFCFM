@@ -37,4 +37,6 @@ EJERCICIO 1
 
 [Avance 1 PIA](https://github.com/HelenaCarrillo/mineriadedatosFCFM/blob/master/Avance1-PIA_01_02.pdf)
 
-[Ejercico Preparación de la base](https://github.com/HelenaCarrillo/mineriadedatosFCFM/blob/master/Base_limpia.ipynb)
+[Práctica 1: Preparación de la base](https://github.com/patyarvizu/Mineria-de-datos/blob/master/P1-PreparacionDatos.ipynb)
+
+[Práctica 2: Visualización](https://github.com/patyarvizu/Mineria-de-datos/blob/master/P2-VisualizacionDatos.ipynb)
