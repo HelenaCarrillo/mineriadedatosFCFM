@@ -42,3 +42,11 @@ EJERCICIO 1
 [P2 - Visualización de datos - Equipo1 - Grupo002](https://github.com/patyarvizu/Mineria-de-datos/blob/master/P2-Visualizaci%C3%B3n%20de%20Datos%20E01-G002.ipynb)
 
 [Segundo avance PIA](https://github.com/patyarvizu/Mineria-de-datos/blob/master/AvancePIA_II_G002_E01.ipynb)
+
+------------------------------------------------------------------------------------------------
+
+PIA
+
+[Poster PIA](https://github.com/patyarvizu/Mineria-de-datos/blob/master/PIA_E01_G002.pdf)
+
+[Código PIA](https://github.com/patyarvizu/Mineria-de-datos/blob/master/PIA_E01_G002.ipynb)
