@@ -47,6 +47,6 @@ EJERCICIO 1
 
 PIA
 
-[Poster PIA](https://github.com/patyarvizu/Mineria-de-datos/blob/master/PIA_E01_G002.pdf)
+[Póster PIA](https://github.com/patyarvizu/Mineria-de-datos/blob/master/PIA_E01_G002.pdf)
 
 [Código PIA](https://github.com/patyarvizu/Mineria-de-datos/blob/master/PIA_E01_G002.ipynb)
